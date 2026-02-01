@@ -13,6 +13,7 @@ from the Python community:
 
 - [Korean](https://github.com/mingrammer/pdb-tutorial)
 - [Chinese](https://github.com/MartinLwx/pdb-tutorial)
+- [Russian](https://github.com/0xfadeef/pdb-tutorial)
 
 If you would like to see another other translation, or are interested in helping out with translating the tutorial,
 feel free to add to the [ongoing issues thread](https://github.com/spiside/pdb-tutorial/issues/9).
