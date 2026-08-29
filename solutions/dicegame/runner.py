@@ -43,7 +43,7 @@ class GameRunner:
                 print("The answer is: {}".format(runner.answer))
                 print("Like seriously, how could you mess that up")
                 runner.loses += 1
-                consecutive_wins = 0
+                runner.consecutive_wins = 0
             print("Wins: {} Loses {}".format(runner.wins, runner.loses))
             runner.round += 1
 
