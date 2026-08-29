@@ -11,6 +11,7 @@ class GameRunner:
         self.round = 1
         self.wins = 0
         self.loses = 0
+        self.consecutive_wins = 0
 
     @property
     def answer(self):
