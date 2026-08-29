@@ -27,7 +27,6 @@ class GameRunner:
             print("Round {}\n".format(runner.round))
 
             roll(runner.dice)
-
             for die in runner.dice:
                 print(die.show())
 
