@@ -21,7 +21,6 @@ class GameRunner:
 
     @classmethod
     def run(cls):
-        consecutive_wins = 0
         runner = cls()
         while True:
 
