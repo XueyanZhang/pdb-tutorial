@@ -47,7 +47,7 @@ class GameRunner:
             print("Wins: {} Loses {}".format(runner.wins, runner.loses))
             runner.round += 1
 
-            if consecutive_wins == 6:
+            if runner.consecutive_wins == 6:
                 print("You won... Congrats...")
                 print("The fact it took you so long is pretty sad")
                 break
